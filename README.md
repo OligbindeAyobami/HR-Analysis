@@ -12,5 +12,9 @@ Staffs were grouped base on their working years at the company, those below 10 y
 Distance from work was divided into 4 categories, it should be noted that more staffs stay 1-7km from the company both in the total number of employees and also among those that left the company, 8-14km comes second in this regards. Those that stays 15 - 21km came last in this category.
 Staffs were encourage to go for training conducted last year and it should be noted that staffs that under went  just two (2) training contributed the most number of attrition (69) followed by those that did training three(3)times. Those that didn't take any training during the period under review come last in this grouping.
 Laboratory Technician has the highest number of staff attrition followed by sales executive and Research Scientist respectively.  Laboratory Technician has a mixed job satisfaction reaction, 20 of the staffs that left gave 1 as their job satisfaction while 13 rate their job satisfaction as 4, 21 rate it at 3 and 8 staffs rate theirs as 2. Health Representative has the lowest attrition.
-![](
 ### Recommedation
+Increasing employees satisfaction, making the employees feel more as member for the organization. 
+Encourage employee to go on more training and development programs .
+Improve employees benefits and reward and recognize best performing employee.
+Offering flexible wprking hours as employees can adjust to the need of the day
+Engage top preformers by either offering exclusive training, career growth opportunities and a better benefits package.
