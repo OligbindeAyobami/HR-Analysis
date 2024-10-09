@@ -1,9 +1,13 @@
 # HR-Analysis
 ## Human Resources Analysis Dashboard
 ### Insights
+
 The company has 60% male and 40% female population of staffs. 237 left the company, which 150 were male making about (63%) while female were numbered at 87 (37%).
 The company has more staffs that are married followed by the single.. Higher number of those that left were Single 51% compared to their married and divorced counterparts which have 35% and 14% respectively .
+
 The company has three departments, Research and Development top the list with most employees leaving the company with 133(56%) followed by Sales department 92 people and  12(5%) were from Human Resources department. Research and Development department has the highest number of total employees.
+
+
 It should also be noted that employee travel pattern were also considered and people that travel rarely has the highest number of people leaving the company with 156 (66%) followed by people that travel frequently with 69 (29%) while the Non-travel come last. Same pattern was repeated when the total number of employees were concerned.
 Staffs from the Life Science top the list with most employees going by their education field, followed by Medical and Marketing respectively. Human resources has the least number of employees in this category. Life Science has the highest number of employee attrition.
 Employees were group into 5 age groups, those between the age of 26-35years top the list with most staffs followed by those between the age 36-45 years. We have fewer employees between the age of 56-60.  A great number of staffs did work overtime compare to those that didn't.
